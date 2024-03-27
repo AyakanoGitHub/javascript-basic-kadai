@@ -1,8 +1,8 @@
-let num = 4;
+let num = 30;
 
 console.log(num);
 
-if  ((num % 5) === 0 && (num % 5) === 0) {
+if  ((num % 3) === 0 && (num % 5) === 0) {
   console.log('3と5の倍数です');
 }
 
