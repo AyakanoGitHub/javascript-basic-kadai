@@ -1,5 +1,5 @@
 const calculateSquared = (num) => {
-  console.log(num ** 2);
+  return num ** 2;
 }
 
-calculateSquared(7);
+console.log(calculateSquared(7));
